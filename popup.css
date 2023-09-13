@@ -54,3 +54,9 @@
 #exportButton:hover {
     background-color: #128c7e;
 }
+
+#message {
+    margin-top: 20px;
+    font-size: 14px;
+    color: red;
+}
